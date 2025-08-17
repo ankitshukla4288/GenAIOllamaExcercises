@@ -25,5 +25,5 @@ class OllamaChatClient:
 #Example Usage
 if __name__ == "__main__":
     client = OllamaChatClient()
-    answer = client.__chat__("Describe fart")
+    answer = client.__chat__("Describe Generative AI")
     print ("Ollama response", answer)
